@@ -13,12 +13,12 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I have alot of passion working with Javascript especially Nodejs, Express, React, <br />, Gatsby, Graphql & Mongodb.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
-- 📫 &nbsp; How to reach me:jackmkimbo@gmail.com.
+- 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/mkimbo/mkimbo/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
