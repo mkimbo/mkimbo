@@ -9,8 +9,6 @@
 
 I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in Computer Technology currently in my final year 🎓 at Multimedia University of Kenya 🏛. I'm passionate about front-end development especially using React Js and I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and also learning mobile apps development using React Native 🤓.
 
-[![](https://gitwar.herokuapp.com/badge?username=mkimbo&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
@@ -67,17 +65,31 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
       </tr>
     </thead>
     <tbody>
-
       <tr>
-          <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
+	      <td><a href="https://github.com/mkimbo/colosoulmusic"><b>🚀 colosoulmusic</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/colosoulmusic?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/colosoulmusic?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/colosoulmusic?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/colosoulmusic?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/colosoulmusic?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/mkimbo/jack2dwrld-portfolio"><b>💸 jack2dwrld-portfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/jack2dwrld-portfolio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/jack2dwrld-portfolio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/jack2dwrld-portfolio?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/jack2dwrld-portfolio?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/jack2dwrld-portfolio?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mkimbo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
-
   </table>
   <br />
 </details>
