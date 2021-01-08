@@ -67,15 +67,17 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
       </tr>
     </thead>
     <tbody>
+
       <tr>
-	      <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
+          <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mkimbo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td>
       </tr>
     </tbody>
+
   </table>
   <br />
 </details>
