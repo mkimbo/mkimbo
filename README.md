@@ -74,12 +74,12 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/colosoulmusic?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/mkimbo/jack2dwrld-portfolio"><b>💸 jack2dwrld-portfolio</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/jack2dwrld-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/jack2dwrld-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/jack2dwrld-portfolio?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/jack2dwrld-portfolio?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/jack2dwrld-portfolio?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/mkimbo/jack2dwrld-portfolio"><b>💸 jackmkimbo-portfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo-personal-website?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mkimbo-personal-website?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mkimbo-personal-website?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
