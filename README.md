@@ -7,14 +7,14 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in Computer Technology currently in my final year 🎓 at Multimedia University of Kenya 🏛. I'm passionate about front-end development especially using React Js and I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, Progressives web apps  🕸️ and also learning mobile apps development using React Native 🤓.
+I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in Computer Technology currently in my final year 🎓 at Multimedia University of Kenya 🏛. I'm passionate about front-end development especially using React Js and I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and the possibilities with Progressives web apps are just amazing 🕸️. I am also learning mobile apps development using React Native 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I have alot of passion working with Javascript especially Nodejs, Express, React, <br />, Gatsby, Graphql & Mongodb.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I have alot of passion working with Javascript especially Nodejs, Express, React, Gatsby, Graphql & Mongodb.
+- 🚀 &nbsp; I’m currently playing around with PWAs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
