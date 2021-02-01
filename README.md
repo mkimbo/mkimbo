@@ -74,7 +74,7 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/colosoulmusic?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/mkimbo/jack2dwrld-portfolio"><b>💸 jackmkimbo-portfolio</b></a></td>
+	      <td><a href="https://github.com/mkimbo/mkimbo-personal-website"><b>💸 jackmkimbo-portfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo-personal-website?style=flat-square"/></td>
@@ -82,11 +82,11 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mkimbo-personal-website?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/mkimbo/mkimbo"><b>🤓 mkimbo</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mkimbo?style=flat-square"/></td>
+	      <td><a href="https://github.com/mkimbo/hyreads-gatsby-blog"><b>🤓 awesome-hyreads-blog</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyreads-gatsby-blog?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyreads-gatsby-blog?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyreads-gatsby-blog?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyreads-gatsby-blog?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
