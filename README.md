@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in Computer Technology currently in my final year 🎓 at Multimedia University of Kenya 🏛. I'm passionate about front-end development especially using React Js and I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and the possibilities with Progressives web apps are just amazing 🕸️. I am also learning mobile apps development using React Native 🤓.
+I'm a self taught JAMSTACK developer also pursuing a Bachelors degree in Computer Technology currently in my final year 🎓 at Multimedia University of Kenya 🏛. I'm passionate about front-end development especially using React Js and I'm always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and the possibilities with Progressive web apps and cloud infrastructure are just amazing 🕸️. Maybe later I will dive into native mobile apps with React Native 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
@@ -25,7 +25,7 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuffs.
 - 📰 &nbsp; Reading & writing youth activism blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Outdoor/Video Games.
 
 ### Languages and Tools:
 
@@ -100,8 +100,8 @@ I'm a self taught JAMSTACK developer who is also pursuing a Bachelors degree in 
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	    <li><b>Browser: </b> Firefox Developer Edition, Google Chrome</li>
+	    <li><b>Code Editor:</b> VSCode, PHP Storm</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
 	</ul>	
