@@ -48,7 +48,7 @@ I'm a self taught JAMSTACK developer also pursuing a Bachelors degree in Compute
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🧑‍🚀 Some of My Projects</b></summary>
 
   <br />
   <table>
@@ -80,12 +80,12 @@ I'm a self taught JAMSTACK developer also pursuing a Bachelors degree in Compute
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mkimbo-personal-website?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/mkimbo/hyreads-gatsby-blog"><b>🤓 awesome-hyreads-blog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyreads-gatsby-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyreads-gatsby-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyreads-gatsby-blog?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyreads-gatsby-blog?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/hyreads-gatsby-blog?label=javascript&style=flat-square"/></td> 
+	      <td><a href="https://github.com/mkimbo/hyblog-final"><b>🤓 Official Hybra Blog</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyblog-final?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyblog-final?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/hyblog-final?label=javascript&style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
