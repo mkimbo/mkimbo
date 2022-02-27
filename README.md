@@ -62,16 +62,16 @@ I'm a Full Stack JavaScript developer passionate about web development especiall
       </tr>
     </thead>
     <tbody>
-    <tr>
-	      <td><a href="https://mern-mini-social.netlify.app/"><b>MERN Application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+      <tr>
+	      <td><a href="https://github.com/mkimbo/mern-project-client/"><b>🚀 MERN Application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mern-project-client?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mern-project-client?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mern-project-client?label=javascript&style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://hyblog.info"><b>JAMStack blog Application</b></a></td>
+	      <td><a href="https://github.com/mkimbo/hyblog-final"><b>🚀 JAMStack blog Application</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyblog-final?style=flat-square"/></td>
@@ -87,7 +87,7 @@ I'm a Full Stack JavaScript developer passionate about web development especiall
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/colosoulmusic?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/mkimbo/mkimbo-personal-website"><b>💸 jackmkimbo-portfolio</b></a></td>
+	      <td><a href="https://github.com/mkimbo/mkimbo-personal-website"><b>🚀 Portfolio site</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mkimbo-personal-website?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mkimbo-personal-website?style=flat-square"/></td>
