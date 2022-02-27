@@ -4,17 +4,16 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jackmkimbo.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JackMkimbo)
 
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a JavaScript engineer passionate about web development especially using NodeJs/ReactJs and I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a Full Stack JavaScript developer passionate about web development especially using NodeJs/ReactJs and I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I have alot of passion working with Javascript especially Nodejs, Express, React, Gatsby, Graphql & Mongodb.
-- 🚀 &nbsp; I’m currently playing around with PWAs.
+- 🚀 &nbsp; I’m currently playing around with Full Stack MERN Apps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
@@ -63,6 +62,22 @@ I'm a JavaScript engineer passionate about web development especially using Node
       </tr>
     </thead>
     <tbody>
+    <tr>
+	      <td><a href="https://mern-mini-social.netlify.app/"><b>MERN Application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mern-project-client?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mern-project-client?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mern-project-client?label=javascript&style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://hyblog.info"><b>JAMStack blog Application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyblog-final?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyblog-final?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/hyblog-final?label=javascript&style=flat-square"/></td> 
+      </tr>
       <tr>
 	      <td><a href="https://github.com/mkimbo/colosoulmusic"><b>🚀 colosoulmusic</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/colosoulmusic?style=flat-square&labelColor=343b41"/></td>
@@ -79,14 +94,8 @@ I'm a JavaScript engineer passionate about web development especially using Node
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mkimbo-personal-website?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mkimbo-personal-website?label=javascript&style=flat-square"/></td>
       </tr>
-      <tr>
-	      <td><a href="https://hyblog.info"><b>🤓 Official Hybra Blog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyblog-final?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyblog-final?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/hyblog-final?label=javascript&style=flat-square"/></td> 
-      </tr>
+      
+      
     </tbody>
   </table>
   <br />
