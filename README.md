@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a Full Stack JavaScript developer passionate about web development especially using NodeJs/ReactJs and I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a Full Stack JavaScript developer constantly learning and solving problems especially using NodeJs/React. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life issues ✨.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
