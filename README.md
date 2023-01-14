@@ -18,7 +18,7 @@ I'm a Software Engineer constantly learning and solving problems especially usin
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
 - 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]([https://github.com/mkimbo/mkimbo/blob/master/resume.pdf](https://drive.google.com/file/d/1F34S-Msjxf_66HgGf-SFa_P2xqnSbLab/view?usp=share_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1F34S-Msjxf_66HgGf-SFa_P2xqnSbLab/view?usp=share_link).
 
 ### My Absolute Favorites:
 
