@@ -6,19 +6,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a Full Stack JavaScript developer constantly learning and solving problems especially using NodeJs/React. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life issues ✨.
+I'm a Software Engineer constantly learning and solving problems especially using NodeJs/React. I have also recently picked up Dart and Flutter to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-life issues ✨.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I have alot of passion working with Javascript especially Nodejs, Express, React, Gatsby, Graphql & Mongodb.
-- 🚀 &nbsp; I’m currently playing around with Full Stack MERN Apps.
+- 🛠 &nbsp; I have alot of passion working with Javascript especially NextJs.
+- 🚀 &nbsp; I’m currently playing around with Mobile Apps Using Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
 - 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/mkimbo/mkimbo/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume]([https://github.com/mkimbo/mkimbo/blob/master/resume.pdf](https://drive.google.com/file/d/1F34S-Msjxf_66HgGf-SFa_P2xqnSbLab/view?usp=share_link).
 
 ### My Absolute Favorites:
 
@@ -62,6 +62,15 @@ I'm a Full Stack JavaScript developer constantly learning and solving problems e
       </tr>
     </thead>
     <tbody>
+	    <tr>
+	      <td><a href="https://github.com/mkimbo/mispas/"><b>🚀 Missing Person Alert System</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mispas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mispas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mispas?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mispas?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mispas?label=javascript&style=flat-square"/></td> 
+      </tr>
+      <tr>
       <tr>
 	      <td><a href="https://github.com/mkimbo/mern-project-client/"><b>🚀 MERN Application</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
@@ -106,9 +115,9 @@ I'm a Full Stack JavaScript developer constantly learning and solving problems e
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+	    <li><b>Desktop: </b> Lenovo i7</li>
   	    <li><b>Browser: </b> Firefox Developer Edition, Google Chrome</li>
-	    <li><b>Code Editor:</b> VSCode, PHP Storm</li>
+	    <li><b>Code Editor:</b> VSCode, Android Studio</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
 	</ul>	
