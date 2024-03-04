@@ -8,8 +8,15 @@
 
 I'm a Software Engineer constantly learning and solving problems especially using NodeJs/React/Flutter. I have also recently picked up Python and AWS to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
-
+<!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" /> -->
+<div height="500" width="375"> 
+ <iframe
+    src="https://voiceglow.org/app/eu/render/dsb53j71if/iframe"
+    width: "100%"
+    height: "100%"
+    frameBorder="0"
+          ></iframe>
+</div>
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I have alot of passion working with Javascript/React.
