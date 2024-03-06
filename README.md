@@ -6,31 +6,23 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a Software Engineer constantly learning and solving problems especially using NodeJs/React/Flutter. I have also recently picked up Python and AWS to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.
+I'm a Software Engineer constantly learning and solving problems especially using AI. I have also recently picked up Python and AWS to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.
 
-<!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" /> -->
-<div height="500" width="375"> 
- <iframe
-    src="https://voiceglow.org/app/eu/render/dsb53j71if/iframe"
-    width: "100%"
-    height: "100%"
-    frameBorder="0"
-          ></iframe>
-</div>
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I have alot of passion working with Javascript/React.
-- 🚀 &nbsp; I’m currently playing around with python in my free time.
+- 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/mkimbo/mkimbo/issues/)! I am happy to help.
-- 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
+- 💬 &nbsp; Ask my AI assistant anything about me [here](https://jackmkimbo.dev/)!.
 - 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
+- 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1z-XycBr4koLFKBlzP0udqdVSCqKGuLmR/view?usp=sharing).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuffs.
-- 📰 &nbsp; Reading & writing youth activism blogs whenever possible.
 - 🍕 &nbsp; Outdoor/Video Games.
 
 ### Languages and Tools:
