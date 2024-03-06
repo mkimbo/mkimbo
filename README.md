@@ -10,14 +10,13 @@ I'm a Software Engineer constantly learning and solving problems especially usin
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Personally:
 
 - 🛠 &nbsp; I have alot of passion working with TypeScript/React.
 - 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask my AI assistant anything about me [here](https://jackmkimbo.dev/)!.
 - 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
-- 👾 &nbsp; Fun fact: 1 + 1 is not always 2 in Javascript.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1z-XycBr4koLFKBlzP0udqdVSCqKGuLmR/view?usp=sharing).
 
 ### My Absolute Favorites:
