@@ -12,7 +12,7 @@ I'm a Software Engineer constantly learning and solving problems especially usin
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I have alot of passion working with Javascript/React.
+- 🛠 &nbsp; I have alot of passion working with TypeScript/React.
 - 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
 - 💬 &nbsp; Ask my AI assistant anything about me [here](https://jackmkimbo.dev/)!.
