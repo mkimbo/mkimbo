@@ -1,122 +1,66 @@
 ## Hey 👋, I'm [Jack Mkimbo!](https://github.com/mkimbo/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jackmkimbo)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jackmkimbo.dev/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jackmkimbo.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JackMkimbo)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
-I'm a Software Engineer constantly learning and solving problems especially using AI. I have also recently picked up Python and AWS to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.
+### 🚀 Building Scalable SaaS Platforms & Intelligent Agents.
+
+I'm a **Full-Stack Engineer** and **SaaS Founder** passionate about high-performance software. I develop **scalable solutions** that are **secure and sustainable**.
+
+I love exploring new technologies and leveraging them to solve complex real-world problems. Currently, I am the Lead Engineer at **[Patofy](https://patofy.com)**.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mkimbo/mkimbo/master/gifs/coder.gif" />
 
-### Personally:
+### ⚡ Current Focus:
 
-- 🛠 &nbsp; I have alot of passion working with TypeScript/React.
-- 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mkimbo).
-- 💬 &nbsp; Ask my AI assistant anything about me [here](https://jackmkimbo.dev/)!.
-- 📫 &nbsp; How to reach me: jackmkimbo@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1z-XycBr4koLFKBlzP0udqdVSCqKGuLmR/view?usp=sharing).
+- 🛠 &nbsp; Architecting **Robust and Scalable** web applications using **Next.js** & **Payload CMS**.
+- 🤖 &nbsp; Building stateful AI agents using **Voiceflow**, **LLMs** & **WhatsApp API**.
+- ☁️ &nbsp; Serverless infrastructure and high-availability database design.
+- 📫 &nbsp; Reach me at: **jackmkimbo@gmail.com** or via my [Portfolio](https://jackmkimbo.dev/).
 
-### My Absolute Favorites:
+### 🛠 Languages & Tools:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuffs.
-- 🍕 &nbsp; Outdoor/Video Games.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind"></code>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
 ### Projects and Dev Stuffs:
 
-<details>	
+<!-- <details>
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkimbo&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimbo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-  <summary><b>🧑‍🚀 Some of My Projects</b></summary>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mkimbo&show_icons=true&hide_border=true)](https://github.com/mkimbo/github-readme-stats) -->
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-	    <tr>
-	      <td><a href="https://github.com/mkimbo/missing-link-site/"><b>🚀 Emergency Alerts System</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/missing-link-site?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/missing-link-site?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/missing-link-site?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/missing-link-site?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/missing-link-site?label=javascript&style=flat-square"/></td> 
-      </tr>
-      <tr>
-       <tr>
-	      <td><a href="https://github.com/mkimbo/jackmkimbo"><b>🚀 Portfolio site</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/jackmkimbo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/jackmkimbo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/jackmkimbo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/jackmkimbo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/jackmkimbo?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/mkimbo/mern-project-client/"><b>🚀 MERN Application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/mern-project-client?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/mern-project-client?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/mern-project-client?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/mern-project-client?label=javascript&style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/mkimbo/hyblog-final"><b>🚀 JAMStack blog Application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/hyblog-final?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/hyblog-final?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/hyblog-final?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/hyblog-final?label=javascript&style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/mkimbo/colosoulmusic"><b>🚀 colosoulmusic</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mkimbo/colosoulmusic?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mkimbo/colosoulmusic?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mkimbo/colosoulmusic?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mkimbo/colosoulmusic?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mkimbo/colosoulmusic?style=flat-square"/></td>
-      </tr>
-     
-      
-      
-    </tbody>
-  </table>
-  <br />
-</details>
- 
+### 💻 Featured Projects
+
+| Project                                  | Role               | Stack                                            | Status      |
+| :--------------------------------------- | :----------------- | :----------------------------------------------- | :---------- |
+| **[Patofy](https://patofy.com)**         | Founder & Lead Dev | _Next.js , Payload CMS, Voiceflow, WhatsApp API_ | 🚀 **Live** |
+| **[Sifmax Beauty](https://sifmax.com)**  | Lead Dev           | _Next.js, TypeScript, Tailwind CSS_              | 🟢 **Live** |
+| **[Beauttah PMS](https://beauttah.com)** | Lead Dev           | _Next.js, Payload CMS, MPesa API_                | 🟢 **Live** |
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Desktop: </b> Lenovo i7</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Desktop: </b> HP G4 SSF</li>
   	    <li><b>Browser: </b> Firefox Developer Edition, Google Chrome</li>
-	    <li><b>Code Editor:</b> VSCode Insiders, Android Studio</li>
+	    <li><b>Code Editor:</b> VSCode Insiders, AntiGravity</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
 	</ul>	
